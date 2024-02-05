@@ -17,15 +17,10 @@
     padding: 0.9rem;
     color: #fff;
     border-radius: 1.5rem;
-
-}
-.grass{
     background-color: #49d0b0;
+
 }
 
-.fire{
-    background-color: #fd8181;
-}
 .pokemon .number{
     opacity: 0.3;
     color: #000;
